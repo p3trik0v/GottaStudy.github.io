@@ -14,6 +14,6 @@ contains 3 different versions to fit your reading level.
 
 
 
- > ~~#WARNING: THIS ISNT A REAL STUDY SITE! DONT USE THIS TO TEACH CHILDREN.~~
+> # ~~WARNING: THIS ISNT A REAL STUDY SITE! DONT USE THIS TO TEACH CHILDREN.~~
                         
 
