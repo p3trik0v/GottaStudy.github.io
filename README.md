@@ -1,5 +1,5 @@
 
-                          **GottaStudy**
+                         # GottaStudy
 
 **Welcome to my study site! Completely used for studying, with only 100% facts! 
 GottaStudy is a very useful study sites with articles for studying. Each article
