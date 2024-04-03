@@ -21,7 +21,8 @@ article for the topics that havent been discussed.
 
 
 > # ~~WARNING: THIS ISNT A REAL STUDY SITE! DONT USE THIS TO TEACH CHILDREN.~~
-<button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;">Click Me!</button>
+<button style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Join the study team!</button>
+
 
 
                         
